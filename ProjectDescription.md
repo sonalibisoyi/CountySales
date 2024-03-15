@@ -1,5 +1,8 @@
+# Project Description
 In this project, I delved into the Pierce County, Washington house sales dataset to uncover valuable insights that informed real estate decisions. Through data analysis and visualization, provided a comprehensive understanding of the factors influencing property values in the region.
+
 Key Focus Areas:
+
 Correlation Analysis:
 Explored the relationship between sale price and square footage to understand how property size impacted pricing trends.
 
