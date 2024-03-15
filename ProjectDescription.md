@@ -1,4 +1,6 @@
 # Project Description
+<img width="800" alt="image" src="https://github.com/sonalibisoyi/CountySales/assets/69918992/5827ac72-58a3-4237-a8f7-111004e9a0af">
+
 In this project, I delved into the Pierce County, Washington house sales dataset to uncover valuable insights that informed real estate decisions. Through data analysis and visualization, provided a comprehensive understanding of the factors influencing property values in the region.
 
 Key Focus Areas:
